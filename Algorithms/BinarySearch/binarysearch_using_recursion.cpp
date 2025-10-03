@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 int BS(int a[], int beg, int end, int element){
    if (end >= beg){
       int mid = beg + (end - beg )/2;
