@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
   void main()
   {
   int  arr[100],i,n,x,f,l,m,flag=0;
