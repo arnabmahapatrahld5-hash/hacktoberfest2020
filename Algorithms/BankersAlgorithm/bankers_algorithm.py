@@ -1,4 +1,4 @@
-def strToList(str1):
+ def strToList(str1):
 	list1 = str1.split(" ")
 	list1 = [int(x) for x in list1]
 	return list1
